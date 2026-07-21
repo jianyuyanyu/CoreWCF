@@ -1,0 +1,128 @@
+{
+  "total": 17904,
+  "passed": 17365,
+  "failed": 0,
+  "skipped": 539,
+  "other": 0,
+  "matrix": [
+    {
+      "cfg": "Debug",
+      "os": "Linux",
+      "tfm": "net10.0",
+      "total": 1406,
+      "passed": 1362,
+      "failed": 0,
+      "skipped": 44
+    },
+    {
+      "cfg": "Debug",
+      "os": "Linux",
+      "tfm": "net11.0",
+      "total": 1406,
+      "passed": 1362,
+      "failed": 0,
+      "skipped": 44
+    },
+    {
+      "cfg": "Debug",
+      "os": "Linux",
+      "tfm": "net8.0",
+      "total": 1406,
+      "passed": 1362,
+      "failed": 0,
+      "skipped": 44
+    },
+    {
+      "cfg": "Debug",
+      "os": "Linux",
+      "tfm": "net9.0",
+      "total": 1406,
+      "passed": 1362,
+      "failed": 0,
+      "skipped": 44
+    },
+    {
+      "cfg": "Debug",
+      "os": "Windows",
+      "tfm": "net10.0",
+      "total": 1395,
+      "passed": 1352,
+      "failed": 0,
+      "skipped": 43
+    },
+    {
+      "cfg": "Debug",
+      "os": "Windows",
+      "tfm": "net11.0",
+      "total": 1395,
+      "passed": 1352,
+      "failed": 0,
+      "skipped": 43
+    },
+    {
+      "cfg": "Debug",
+      "os": "Windows",
+      "tfm": "net472",
+      "total": 1342,
+      "passed": 1327,
+      "failed": 0,
+      "skipped": 15
+    },
+    {
+      "cfg": "Debug",
+      "os": "Windows",
+      "tfm": "net8.0",
+      "total": 1395,
+      "passed": 1352,
+      "failed": 0,
+      "skipped": 43
+    },
+    {
+      "cfg": "Debug",
+      "os": "Windows",
+      "tfm": "net9.0",
+      "total": 1129,
+      "passed": 1086,
+      "failed": 0,
+      "skipped": 43
+    },
+    {
+      "cfg": "Release",
+      "os": "Linux",
+      "tfm": "net10.0",
+      "total": 1406,
+      "passed": 1362,
+      "failed": 0,
+      "skipped": 44
+    },
+    {
+      "cfg": "Release",
+      "os": "Linux",
+      "tfm": "net11.0",
+      "total": 1406,
+      "passed": 1362,
+      "failed": 0,
+      "skipped": 44
+    },
+    {
+      "cfg": "Release",
+      "os": "Linux",
+      "tfm": "net8.0",
+      "total": 1406,
+      "passed": 1362,
+      "failed": 0,
+      "skipped": 44
+    },
+    {
+      "cfg": "Release",
+      "os": "Linux",
+      "tfm": "net9.0",
+      "total": 1406,
+      "passed": 1362,
+      "failed": 0,
+      "skipped": 44
+    }
+  ],
+  "title": "CoreWCF Test Results — PR #211",
+  "subtitle": "PR #211 · commit 6e2cce8 · [run 29803139639](https://github.com/jianyuyanyu/CoreWCF/actions/runs/29803139639)"
+}
